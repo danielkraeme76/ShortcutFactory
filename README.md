@@ -1,10 +1,8 @@
 # ShortcutFactory by Daniel Krämer, Weiterstadt, Germany
 
-Program Description:
-
 ShortcutFactory is an application for automatically generating shortcuts (.lnk files) through batch processing.
 
-It is a one-file .exe that doesn´t require Installation and can run from any medium.
+It’s a standalone .exe file that requires no installation and runs from any location.
 
 ## 🖥️ Features
 
