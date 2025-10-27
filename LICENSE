@@ -1,0 +1,55 @@
+ShortcutFctory – Freeware License (Version 1.0, October 2025)
+
+Copyright (c) 2025 Daniel Krämer, Weiterstadt, Germany
+
+1. Grant of Use
+This software is provided as freeware. It may be used free of charge by anyone, 
+provided that this license is included and the software remains unmodified.
+
+2. Copyright
+All rights to the program code, documentation, and included resources remain with the author. 
+Modification, decompilation, reverse engineering, or any other alteration is not permitted.
+
+3. Distribution
+Redistribution of the unmodified installation package is permitted 
+only if this license file remains included and the software is not sold or altered in any way.
+
+4. No Commercial Exploitation
+The software may not be sold, rented, or distributed for any form of compensation.
+
+5. Disclaimer of Liability
+Use of this software is at your own risk. 
+The author shall not be held liable for any direct, indirect, incidental, or consequential damages 
+arising from the use or inability to use this software, even if advised of the possibility of such damages.
+
+6. No Warranty
+This software is provided "as is," without express or implied warranties of any kind, 
+including but not limited to functionality, error-free operation, or fitness for a particular purpose.
+
+7. Modifications
+The author reserves the right to modify or discontinue the software at any time without prior notice.
+
+8. Termination
+Any violation of these license terms will result in the immediate termination of the right to use this software.
+
+#################################################################################################
+
+Program Description:
+
+ShortcutFactory is an application for automatically generating shortcuts (.lnk files) through batch processing.
+
+Features:
+
+- Select a sample file to determine the file type to search for.
+
+- Select the source directory in which to search (recursively) for files of this type.
+
+- Select the target directory in which the shortcuts to the files of the specified type found in the source directory will be stored.
+
+- Start the process by clicking the "Generate" button.
+
+- Files with identical file names will be overwritten.
+
+Enjoy!
+
+#################################################################################################
