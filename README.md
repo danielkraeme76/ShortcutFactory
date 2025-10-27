@@ -1,4 +1,4 @@
-# ShortcutFactory by Daniel Krämer, Weiterstadt, Germany
+# ShortcutFactory
 
 ShortcutFactory is an application for automatically generating shortcuts (.lnk files) through batch processing.
 
