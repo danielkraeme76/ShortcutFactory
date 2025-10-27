@@ -6,7 +6,7 @@ It’s a standalone .exe file that requires no installation and runs from any lo
 
 ## 🖥️ Features
 
-- 🔍 Recursively scans source folders for `.vstpreset` files
+- 🔍 Recursively scans source folders for files of the previously determined filetype
 - 🔗 Creates `.lnk` shortcuts with absolute paths
 - 📁 Places all shortcuts flat in a single target folder
 - 🧾 Generates a concise log file named `_LOGS.txt`
@@ -41,8 +41,8 @@ This is a single `.exe` file that runs independently.
 
 This software is provided as Freeware.
 
-    Free of charge for personal use
-    non-commercial distribution is possible
-    No warranty, no liability
+    - Free of charge for personal use
+    - non-commercial distribution is possible
+    - No warranty, no liability
 
 See [Show License](LICENSE) for full details.
