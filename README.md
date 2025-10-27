@@ -1,6 +1,6 @@
 # ShortcutFactory
 
-ShortcutFactory is an application for automatically generating shortcuts (.lnk files) through batch processing.
+ShortcutFactory is an application for Windows that automatically generates shortcuts (.lnk files) for files of a specified filetype in a selected folder through batch processing.
 
 It’s a standalone .exe file that requires no installation and runs from any location.
 
