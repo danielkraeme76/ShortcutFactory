@@ -47,4 +47,4 @@ This software is provided as Freeware.
     non-commercial distribution is possible
     No warranty, no liability
 
-See Show License for full details.
+See [Show License](LICENSE) for full details.
