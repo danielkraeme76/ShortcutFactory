@@ -25,10 +25,10 @@ This is a single `.exe` file that runs independently.
 1. Download the .exe-file.
 2. Double-click to launch the application.
 3. In the GUI:
-   - Select a ***Sample File*** to determine the filtetype you want to generate shortcuts for.
+   - Select a ***sample file*** to determine the filtetype you want to generate shortcuts for.
    - Select a **source folder** containing the source files.
    - Select or create a **target folder** where `.lnk` files will be placed.
-   - Click **Generate** to start the process.
+   - Click **generate** to start the process.
    - Use **STOP** to cancel at any time.
 
 ## 📄 Output
